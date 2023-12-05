@@ -1,0 +1,13 @@
+Account Created
+Account Number: 1115
+USER ID - r: suman_452
+Account Holder Name: Suman singh
+PIN2321
+Date: Mon Dec 04 09:42:23 IST 2023
+
+
+Deposit: 9000.0
+Date: Mon Dec 04 09:51:56 IST 2023
+Account Number: 1115
+Remaining Balance: 13000.0
+

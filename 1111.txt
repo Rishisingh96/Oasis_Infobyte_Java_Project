@@ -1,0 +1,8 @@
+Account Created
+Account Number: 1111
+USER ID - r: rishi_123
+Account Holder Name: Rishi singh
+PIN1231
+Date: Mon Dec 04 09:37:42 IST 2023
+
+
